@@ -1,3 +1,3 @@
 # channel-desk-windows
 
-0.12
+0.11
