@@ -1,3 +1,2 @@
 # channel-desk-windows
-
-2.2.2
+3.0.0
